@@ -1,0 +1,19 @@
+title       : The Map of Happiness
+subtitle    : how life satisfaction varies around the globe
+author      : Andrew Eco
+
+This application was created as part of the peer assessment Course Project of the Developing Data Products course on Coursera, which is part of the Data Science specialization.
+
+the Course Project consists of:
+
+* a Shiny application data product
+* a Slidify/R-Presentation that explains what the Shiny application does
+
+This application visualizes the results of the most recent "World Happiness Report", published in 2016. It produces an interactive map of the world that demonstrates in which parts of the planet people tend to be more satisfied with their lives. Colouring gives a general idea of what countries tend to provide the highest and lowest quality of life, while moving the mouseover a specific country outputs the "Happiness Score" for that country.
+
+The green colour on the map indicates a happy country, while the red colour indicates an unhappy country. The more intense the green or red, the more happy/unhappy a country is. A colour closer to yellow indicates a rating closer to the average.
+
+The Data has been downloaded from the official World Happiness Report website: http://worldhappiness.report
+
+The World Happiness Report is a landmark survey of the state of global happiness. The first report was published in 2012, the second in 2013, and the third in 2015. The World Happiness Report 2016 Update, which ranks 156 countries by their happiness levels, was released today in Rome in advance of UN World Happiness Day, March 20th. Leading experts across fields – economics, psychology, survey analysis, national statistics, health, public policy and more – describe how measurements of well-being can be used effectively to assess the progress of nations. The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness. They reflect a new worldwide demand for more attention to happiness as a criteria for government policy.
+
