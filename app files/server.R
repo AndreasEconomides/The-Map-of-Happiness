@@ -1,7 +1,7 @@
 setwd("C:/Users/Andreas/Desktop")
 library(googleVis)
 
-happiness <- read.csv('happy_data.csv')
+happiness <- read.csv('https://raw.githubusercontent.com/AndreasEconomides/The-Map-of-Happiness/master/happy_data.csv')
     happy_planet <- gvisGeoChart(happiness, "country", "Happiness",
                                  options=list(displayMode="regions",
                                               title='The Map of Happiness',
